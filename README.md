@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there👋
+### 👨 About me 
+- I am a passionate and hard-working person who thrives on turning complex problems into elegant, user-friendly applications.
+I'm looking forward to an entry-level position in front end development. I strongly believe that you can achieve anything if you are willing to learn and work hard enough. I do have the passion, the ability to learn       fast, and the determination to do everything in my power to use any knowledge, any skill for my future career. I thrive on turning complex problems into elegant, user-friendly applications.
+I would love to collaborate, contribute, and to make a positive impact on the world through technology.
+### 🖥 My skills: 
+- HTML, CSS, JavaScript, ReactJs, Redux Toolkit, Bootstrap, Git
 
-<!--
-**AdriandGrigore/AdriandGrigore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📖 My current certificates: 
+🌱 I'm currently enrolled in Meta Front-End Developer course. 
+- [Introduction to Front-End Development](https://drive.google.com/file/d/1McZHrubaEoA5-qNMXE6_sDj8ZNgk5Eg7/view?usp=sharing)
+- [HTML and CSS in depth](https://drive.google.com/file/d/1fY1LZdbAcDs4LbNr4eHkIQLxRRfUaIy9/view?usp=sharing)
+- [Programming with JavaScript](https://drive.google.com/file/d/1HlnG8mGMNVaM0CAEWrx_pylP-z-iqtxl/view?usp=sharing)
+- [React Basics](https://drive.google.com/file/d/1KoIOMGGcIk1YRMPn1rPASYOGv5k2SjgF/view?usp=sharing)
+- [Advanced React](https://drive.google.com/file/d/1xM6yeb90sN_wxp5vNmD7ecmoD80Xn4Us/view?usp=sharing)
+- [Version Control](https://drive.google.com/file/d/14dYNQ7if4EQc8pu12DMBTbwJhLSlYlyH/view?usp=sharing)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 You can reach me at: 
+- grigorenicolaeadrian@yahoo.com
