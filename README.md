@@ -1,10 +1,11 @@
 ## Hi there👋
 ### 👨 About me 
 - I am a passionate and hard-working person who thrives on turning complex problems into elegant, user-friendly applications.
-I'm looking forward to an entry-level position in front end development. I strongly believe that you can achieve anything if you are willing to learn and work hard enough. I do have the passion, the ability to learn       fast, and the determination to do everything in my power to use any knowledge, any skill for my future career. I thrive on turning complex problems into elegant, user-friendly applications.
-I would love to collaborate, contribute, and to make a positive impact on the world through technology.
+I'm looking forward to an entry-level position in front end development. I strongly believe that you can achieve anything if you are willing to learn and work hard enough. I do have the passion, the ability to learn       fast. I am driven to collaborate, contribute, and create applications that enhance user experiences.
+- I am highly adaptable and eager to learn new technologies and frameworks as front-end development evolves.
+
 ### 🖥 My skills: 
-- HTML, CSS, JavaScript, ReactJs, Redux Toolkit, Bootstrap, Git
+- HTML, CSS, JavaScript, ReactJs, Redux Toolkit, Firebase, Bootstrap, Git
 
 ### 📖 My current certificates: 
 🌱 I'm currently enrolled in Meta Front-End Developer course. 
