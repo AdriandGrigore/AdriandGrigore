@@ -6,7 +6,8 @@ I'm looking forward to an entry-level position in front end development. I stron
 
 ### 🖥 My skills: 
 - HTML, CSS, JavaScript, ReactJs, Redux Toolkit, Firebase, Bootstrap, Git
-
+### 💼 My projects:
+- [HireChef-Website](https://hirechef-website.web.app/)
 ### 📖 My current certificates: 
 🌱 I'm currently enrolled in Meta Front-End Developer course. 
 - [Introduction to Front-End Development](https://drive.google.com/file/d/1bjVGBmU2XNwzcA0ajl-8TdXIascY9B4L/view?usp=sharing)
