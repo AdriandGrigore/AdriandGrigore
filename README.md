@@ -1,7 +1,7 @@
 ## Hi there👋
 ### 👨 About me 
 - I am a passionate and hard-working person who thrives on turning complex problems into elegant, user-friendly applications.
-I'm looking forward to an entry-level position in front end development. I strongly believe that you can achieve anything if you are willing to learn and work hard enough. I do have the passion, the ability to learn       fast. I am driven to collaborate, contribute, and create applications that enhance user experiences.
+I'm looking forward to an entry-level position in front end development. I strongly believe that you can achieve anything if you are willing to learn and work hard enough. I do have the passion and the ability to learn      fast. I am driven to collaborate, contribute, and create applications that enhance user experiences.
 - I am highly adaptable and eager to learn new technologies and frameworks as front-end development evolves.
 
 ### 🖥 My skills: 
