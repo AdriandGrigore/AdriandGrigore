@@ -9,12 +9,12 @@ I'm looking forward to an entry-level position in front end development. I stron
 
 ### 📖 My current certificates: 
 🌱 I'm currently enrolled in Meta Front-End Developer course. 
-- [Introduction to Front-End Development](https://drive.google.com/file/d/1McZHrubaEoA5-qNMXE6_sDj8ZNgk5Eg7/view?usp=sharing)
-- [HTML and CSS in depth](https://drive.google.com/file/d/1fY1LZdbAcDs4LbNr4eHkIQLxRRfUaIy9/view?usp=sharing)
-- [Programming with JavaScript](https://drive.google.com/file/d/1HlnG8mGMNVaM0CAEWrx_pylP-z-iqtxl/view?usp=sharing)
-- [React Basics](https://drive.google.com/file/d/1KoIOMGGcIk1YRMPn1rPASYOGv5k2SjgF/view?usp=sharing)
-- [Advanced React](https://drive.google.com/file/d/1xM6yeb90sN_wxp5vNmD7ecmoD80Xn4Us/view?usp=sharing)
-- [Version Control](https://drive.google.com/file/d/14dYNQ7if4EQc8pu12DMBTbwJhLSlYlyH/view?usp=sharing)
+- [Introduction to Front-End Development](https://drive.google.com/file/d/1bjVGBmU2XNwzcA0ajl-8TdXIascY9B4L/view?usp=sharing)
+- [HTML and CSS in depth](https://drive.google.com/file/d/1W_MOIy_hwoKKUXql2X4gpBT12z6eVjkE/view?usp=sharing)
+- [Programming with JavaScript](https://drive.google.com/file/d/1tJNQCrNAQmuAXigJTW3pI-vM6F7DLntf/view?usp=sharing)
+- [React Basics](https://drive.google.com/file/d/1CYHAZnKLByqFD4fN59FntmfCWnDcS1kl/view?usp=sharing)
+- [Advanced React](https://drive.google.com/file/d/1iQtHtLUn0ezzvk71HbSRSxTMwlEUoBY2/view?usp=sharing)
+- [Version Control](https://drive.google.com/file/d/1qyyTa635brIXNmE9X7xn6XZuNxlOWxfP/view?usp=sharing)
 
 ### 📫 You can reach me at: 
 - grigorenicolaeadrian@yahoo.com
